@@ -7,6 +7,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+import seaborn as sns
+
 
 # Importing the dataset for use.
 dataset = pd.read_csv('Salary_Data.csv')
