@@ -3,3 +3,4 @@
 
 Udemy Course
 -> Implementation of basic ML Algos
+-> How to integrate plots.
