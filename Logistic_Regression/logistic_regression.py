@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 
+import seaborn as sns
+
 
 dataset = pd.read_csv('Social_Network_Ads.csv')
 
